@@ -1,0 +1,9 @@
+backend/node_modules
+backend/data
+backend/dist
+backend/logs
+backend/.DS_Store
+backend/.dccache
+backend/.idea
+backend/.nyc_output
+backend/coverage
